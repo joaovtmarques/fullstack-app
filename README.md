@@ -1,7 +1,3 @@
-# Desafio 
-
-<br>
-
 ## 👨‍💻 Tecnologias e bibliotecas
 
 #### Este sistema foi desenvolvido com as seguintes tecnologias e bibliotecas:
